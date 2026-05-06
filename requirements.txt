@@ -1,0 +1,3 @@
+# Sistema de Gestión de Notas
+# No hay dependencias externas - solo librerías estándar de Python 3.8+
+# Para ejecutar: pip install -r requirements.txt (opcional)
